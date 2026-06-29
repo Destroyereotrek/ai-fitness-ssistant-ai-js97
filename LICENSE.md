@@ -1,4 +1,4 @@
-# 
+# Código aberto AI Fitness Trainer Assistant modelos. Com otimização de modelos e visão computacional — otimizado para máximo desempenho.
 
 
 
